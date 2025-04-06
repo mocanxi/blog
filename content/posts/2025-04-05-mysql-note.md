@@ -1,7 +1,7 @@
 ---
 date: '2025-04-05T19:37:51+08:00'
 draft: false
-title: '2025 04 05 Mysql Note'
+title: 'Mysql 笔记'
 tags: ["mysql","笔记"]
 categories: ["database"]
 ---
