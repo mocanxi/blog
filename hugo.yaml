@@ -6,6 +6,8 @@ theme: "PaperMod"
 #  配置参考https://2x.nz/posts/hugo
 # 启用首页个人简介展示
 params:
+  #日期格式
+  dateFormat: "2006年01月02日"
   # 是否启用评论。你需要自己配置，或者直接引入Giscus等评论系统(或Twikoo +Vercel 部署)
   comments: false
   # 是否显示代码复制按钮
@@ -13,7 +15,7 @@ params:
   # 是否显示面包屑导航
   ShowBreadCrumbs: false
   # 是否显示阅读时间  
-  ShowReadingTime: true
+  ShowReadingTime: false
   # 是否显示分享按钮
   ShowShareButtons: true
   # 分享按钮配置
