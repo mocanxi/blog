@@ -1,4 +1,4 @@
-baseURL: "https://blog.ihry.top"
+baseURL: ""
 title: "ihry blog"
 LanguageCode: "zh-CN"
 theme: "PaperMod"
